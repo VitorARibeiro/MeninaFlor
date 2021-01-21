@@ -7,7 +7,7 @@ import Colors from '../constants/Colors';
 import useColorScheme from '../hooks/useColorScheme';
 import AgendaScreen from '../screens/AgendaScreen';
 import FinanceiroScreen from '../screens/FinanceiroScreen';
-import { BottomTabParamList, AgendaParamList, FinanceiroParamList } from '../types';
+import { BottomTabParamList, AgendaParamList, FinanceiroParamList } from '../../types';
 
 const BottomTab = createBottomTabNavigator<BottomTabParamList>();
 

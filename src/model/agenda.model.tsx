@@ -1,5 +1,3 @@
-import { TapGestureHandler } from "react-native-gesture-handler";
-
 export class Agenda {
 
     constructor(id?: number, descricao?: string, tipo_de_servico?: string, horario_inicial?: Date, horario_final?: Date) {

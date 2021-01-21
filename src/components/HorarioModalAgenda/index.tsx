@@ -5,7 +5,6 @@ import { Ionicons } from '@expo/vector-icons';
 import { AgendaService } from '../../services/agenda.service';
 import { Agenda } from '../../model/agenda.model';
 
-
 import { 
   Container, 
   HorarioModal, 
